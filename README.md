@@ -1,2 +1,2 @@
-# Seoul Women's University 
-#PBL
+# MINISWU
+#Seoul Women's University 
